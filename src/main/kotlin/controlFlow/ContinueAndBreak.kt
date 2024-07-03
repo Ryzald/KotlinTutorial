@@ -22,9 +22,5 @@ fun main() {
 //    Loop terminated
 
 
-    var a = 11
 
-    when (a) {
-            > 0 -> print("Ok")
-    }
 }
