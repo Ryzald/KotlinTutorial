@@ -16,7 +16,10 @@ This is a Kotlin tutorial repository covering the fundamental concepts of the Ko
    - Vararg
 
 2. **Control Flow**
-   - coming soon
+   - when
+   - while and do while
+   - ForLoop
+   - Range
 
 3. **OOP**
    - coming soon
